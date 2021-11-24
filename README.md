@@ -1,2 +1,2 @@
-# CSE498R - Smart IOT Based Greenhouse 
+# Smart IOT Based Greenhouse   
 ##
