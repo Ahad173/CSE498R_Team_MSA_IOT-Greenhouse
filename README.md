@@ -1,1 +1,2 @@
-# CSE498R_Team_MSA_IOT-Greenhouse
+# CSE498R - Smart IOT Based Greenhouse 
+##
