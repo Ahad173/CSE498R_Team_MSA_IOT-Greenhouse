@@ -34,12 +34,14 @@ if __name__ == '__main__':
                     lightStatus = "on"
                 else:
                     lightStatus = "off"
+                    
                 if moisture <500:
                     motorStatus = "off"
                 elif moisture >=500 and moisture <750:
                     motorStatus = "off"
                 else:
                     motorStatus ="on"
+                    
                 if temp >= 50:
                     fanStatus = "on"
                 else:
